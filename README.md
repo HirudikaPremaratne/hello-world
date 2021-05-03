@@ -1,2 +1,3 @@
 # hello-world
-Learning GitHub
+Learning GitHub. 
+My name is Hirudika Premaratne.
